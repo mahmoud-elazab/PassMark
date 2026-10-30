@@ -1,0 +1,31 @@
+# Work documents and report templates
+/Report model/
+/User Guide - PassMarkTool.docx
+
+# Local test data and generated reports
+/test_files/
+/345478-7-1-2.txt
+
+# Packaged applications and build output
+/dist/
+/build/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Temporary Office files
+~$*
